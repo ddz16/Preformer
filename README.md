@@ -1,6 +1,6 @@
 # Preformer
 
-This repository contains the pretrain code for the paper "Preformer: Predictive Transformer with Multi-Scale Segment-wise Correlations for Long-Term Time Series Forecasting”.
+This repository contains the pytorch code for the paper "Preformer: Predictive Transformer with Multi-Scale Segment-wise Correlations for Long-Term Time Series Forecasting”.
 
 # Model
 The core MSSC module:
